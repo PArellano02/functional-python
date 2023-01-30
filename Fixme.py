@@ -86,8 +86,8 @@ def squares(n):
 
 def lengths(strings):
     '''
-    Given a list of strings, returns a list of the lengths
-    of the corresponding strings.
+    Given a list of strings, returns a list of the
+    lengths of the corresponding strings.
 
     >>> lengths([])
     []
